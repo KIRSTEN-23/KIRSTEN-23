@@ -1,12 +1,8 @@
 # Hi there 👋 I'm Kirsten
 
-<img src="assets/headshot.png" alt="Portrait of Kirsten" width="220" align="right" />
-
 I'm a **web designer and developer** who enjoys turning ideas into intuitive, visually engaging websites. I bring design and code together to create experiences that are easy to navigate and enjoyable to use.
 
 My projects range from animal welfare websites and agricultural dashboards to full-stack booking applications. I enjoy working across the process, from exploring layouts and user flows to building responsive interfaces and the functionality behind them.
-
-<br clear="all" />
 
 ---
 
